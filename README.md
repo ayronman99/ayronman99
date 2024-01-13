@@ -29,6 +29,4 @@ You can click the Preview link to take a look at your changes.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayronman99&show_icons=true&theme=radical&count_private=true&hide=stars,prs,issues)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayronman99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayronman99&theme=dark" alt="ayronman99" /></p>
-
 
